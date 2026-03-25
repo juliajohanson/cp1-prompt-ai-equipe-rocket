@@ -9,8 +9,8 @@ O site tem como sua função ser um guia para a estruturação/criação de site
 ## Parâmetros utilizados
 esses aq
 ## Exemplos de saída
-[![Exemplo_teste_01](./assets/prints/prints_teste_1.md)](./assets/prints/prints_teste_1.md)
-[![Exemplo_teste_02](./assets/prints/prints_teste_2.md)](./assets/prints/prints_teste_2.md)
+[![Exemplo_teste_01](./assets/prints/prints_teste_1.md)](./assets/prints/prints_teste_1.md)  
+[![Exemplo_teste_02](./assets/prints/prints_teste_2.md)](./assets/prints/prints_teste_2.md)  
 [![Exemplo_teste_03](./assets/prints/prints_teste_3.md)](./assets/prints/prints_teste_3.md)
 ## Demonstração
 
