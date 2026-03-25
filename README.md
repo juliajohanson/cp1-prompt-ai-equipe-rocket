@@ -9,7 +9,7 @@ O site tem como sua função ser um guia para a estruturação/criação de site
 ## Parâmetros utilizados
 esses aq
 ## Exemplos de saída
-
+[![Exemplo_teste_01](./assets/prints/prints_teste_1.md)](./assets/prints/prints_teste_1.md)
 ## Demonstração
 
 https://github.com/user-attachments/assets/d4b10af8-d18a-4814-ba21-476f5ccf029c
