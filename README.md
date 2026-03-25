@@ -10,6 +10,8 @@ O site tem como sua função ser um guia para a estruturação/criação de site
 esses aq
 ## Exemplos de saída
 [![Exemplo_teste_01](./assets/prints/prints_teste_1.md)](./assets/prints/prints_teste_1.md)
+[![Exemplo_teste_02](./assets/prints/prints_teste_2.md)](./assets/prints/prints_teste_2.md)
+[![Exemplo_teste_03](./assets/prints/prints_teste_3.md)](./assets/prints/prints_teste_3.md)
 ## Demonstração
 
 https://github.com/user-attachments/assets/d4b10af8-d18a-4814-ba21-476f5ccf029c
