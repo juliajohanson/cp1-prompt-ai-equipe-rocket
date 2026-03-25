@@ -9,9 +9,9 @@ O site tem como sua função ser um guia para a estruturação/criação de site
 ## Parâmetros utilizados
 esses aq
 ## Exemplos de saída
-<img width="1867" height="888" alt="03" src="https://github.com/user-attachments/assets/85f9f1f2-3a71-4f35-8770-293d00012785" />
 
 ## Demonstração
-o video ai
-## Aprendizados
 
+https://github.com/user-attachments/assets/d4b10af8-d18a-4814-ba21-476f5ccf029c
+
+## Aprendizados
