@@ -9,7 +9,7 @@ O site tem como sua função ser um guia para a estruturação/criação de site
 A primeira ação a ser desempenhada é preencher as caixas de diálogos referente ao passo 1, após dar as informações necessárias, é necessário adicionar as cores de preferência para o layout no campo do passo 2, posteriormente, é opcional anexar referências visuais no passo 3, porém é recomendado que essa ação seja desempenhada. Com todos os campos preenchidos e salvos, para começar a geração do resultado esperado, deve-se clicar no botão "iniciar fase de arquitetura" e aguardar alguns segundos para a geração do resultado final.
 
 ## Parâmetros utilizados:
-esses aq
+O principal parâmetro utilizado foi o prompt disponibilizado no passo 2 das instruções do checkpoint. A partir de modificações pertinentes a ele, a coleta de informações nos três passos gira em torno de fornecer escopo para que o resultado seja trabalhado em cima dos dados conseguidos. Isso faz desse o principal parâmetro para a geração de uma resposta satisfatória, que engloba o que foi absorvido.
 ## Exemplos de saída:
 [![Exemplo_teste_01](./assets/prints/prints_teste_1.md)](./assets/prints/prints_teste_1.md)  
 [![Exemplo_teste_02](./assets/prints/prints_teste_2.md)](./assets/prints/prints_teste_2.md)  
