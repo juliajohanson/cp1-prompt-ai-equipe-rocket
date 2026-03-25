@@ -1,0 +1,65 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@theme {
+  --font-jura: "Jura", sans-serif;
+  --font-lexend: "Lexend", sans-serif;
+
+  --color-brand-dark: #212121;
+  --color-brand-medium: #616161;
+  --color-brand-accent: #0052FF;
+  --color-brand-light: #777777;
+  --color-brand-bg: #FBF9F8;
+  --color-brand-surface: #EEEEED;
+  --color-brand-surface-low: #F5F3F3;
+}
+
+@layer base {
+  body {
+    @apply font-lexend bg-brand-bg text-brand-dark antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-jura;
+  }
+}
+
+/* Custom scrollbar for minimalist feel */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-brand-medium/20 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-brand-medium/40;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  @apply bg-brand-surface rounded-full;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  @apply bg-brand-medium/30 rounded-full border-2 border-brand-surface;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  @apply bg-brand-accent/50;
+}
+
+.color-wheel {
+  background: radial-gradient(circle, white, transparent 80%),
+              conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+  border-radius: 50%;
+}
