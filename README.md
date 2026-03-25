@@ -8,7 +8,8 @@ isso aq
 ## Parâmetros utilizados
 esses aq
 ## Exemplos de saída
-as imagens ai
+<img width="1867" height="888" alt="03" src="https://github.com/user-attachments/assets/85f9f1f2-3a71-4f35-8770-293d00012785" />
+
 ## Demonstração
 o video ai
 ## Aprendizados
